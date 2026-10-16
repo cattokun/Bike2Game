@@ -10,7 +10,7 @@ It can convert pedaling into:
 
 ## Website
 
-https://bike2game.pages.dev/
+https://bike2game.download/
 
 ## Features
 
@@ -29,12 +29,12 @@ https://bike2game.pages.dev/
 
 ## Setup Guide
 
-https://bike2game.pages.dev/setup.html
+https://bike2game.download/setup.html
 
 ## Pricing
 
-https://bike2game.pages.dev/pricing.html
+https://bike2game.download/pricing.html
 
 ## Support
 
-https://bike2game.pages.dev/#support
+https://bike2game.download/#support
